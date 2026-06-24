@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shefat 👋
 
-<!--
-**shefatshaikh/shefatshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building useful software and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+## 🚀 Currently Exploring
+- Artificial Intelligence
+- Automation
+- APIs
+- Full Stack Development
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+- Python
+- JavaScript
+- Git & GitHub
+- SQL
+- HTML/CSS
+
+## 📌 Current Projects
+
+- Kraken API CLI
+- AI Wrapper Tool
+- Blockchain Supply Chain Management
+- Personal Idea OS
+
+## 📫 Connect
+
+More projects coming soon...
